@@ -38,7 +38,7 @@ seass
 ```
 Since the validation set is large, you can sample a small set from it.
 
-Collect vocabulary using `CollectVocab.py`, or download it.
+Collect vocabulary using `CollectVocab.py`.
 Then put the vocab files in the `train` folder.
 
 Modify `run.sh` according to your setting and files.
